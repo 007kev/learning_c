@@ -1,1 +1,1 @@
-# learning_c
+I made this to practice C/C++
